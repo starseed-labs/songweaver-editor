@@ -1,0 +1,4 @@
+
+> @playcanvas/editor@2.4.0 build C:\dev\songweaver\external\playcanvas-editor
+> npm run build:css && npm run build:js
+
